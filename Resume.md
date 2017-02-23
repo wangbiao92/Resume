@@ -13,26 +13,26 @@
 ### 项目经历
 
 
-#### 车联网融合理论与海量数据分析方法研究项目 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+#### 车联网融合理论与海量数据分析方法研究项目（2016.7-至今）
+我在此项目中负责了地图匹配的优化，这个项目中，我最困难的问题如何显示匹配的效果，传统的方法有利用python的Tkinter 开发者图形用户库用于显示离线地图和匹配效果，对电脑的性能有更大的要求。最后，通过高德地图api，将匹配数据显示在地图上，使显示效果更加直观。同时考虑GPS方向的这一特征，使匹配准确率提高百分10，老师对此也非常满意。
 
-#### 其他项目
-2006年，我参与了手机XX网发布系统WAPCMS的开发（```这部分是大家都会写的```）。作为核心程序员，我不但完成了网站界面、调度队列的开发工作，更提出了高效的组件级缓存系统，通过碎片化缓冲有效的提升了系统的渲染效率。（```这部分是很多同学忘掉的，要写出你在这个项目中具体负责的部分，以及你贡献出来的价值。```）在该系统上线后，Web前端性能从10QPS提升到200QPS，服务器由10台减少到3台（``` 通过量化的数字来增强可信度 ```）。2008年我升任WAPCMS项目负责人，带领一个3人小组支持着每天超过2亿的PV（``` 这就是Benefit。你能带给前雇主的价值，也就是你能带给新雇主的价值。 ```）。
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
-
+#### 百度前端技术学院课程（2016.11-至今）——[源代码](https://wangbiao92.github.io/ife)
+Task 01[demo](https://wangbiao92.github.io/ife/task06.html)
+学习多栏布局，清除浮动，简单的Photoshop切图功能，实现类似报纸排版的静态界面。
+Task 02[demo](https://wangbiao92.github.io/ife/task08.html)
+实现了一个类似Boostrap响应式网格布局界面，合理地运用HTML语义化标签。
+Task 03[demo](https://wangbiao92.github.io/ife/task15.html)
+实现一个简单的排名功能，加强对原生JavaScript语言基础、DOM、事件的熟悉。
 ### 技能清单
-以下均为我熟练使用的技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
+- html css JavaScript
+- Bootstrap
+- MySQL
+- Git
+- python
 
-### 科研成果
-
+### 足迹
+- Github：https://github.com/wangbiao92
 
 ### 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
